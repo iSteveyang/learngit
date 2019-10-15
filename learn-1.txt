@@ -3,3 +3,4 @@ My first git test, in 2018/1/1.
 The second lessions is use "diff"
 I'm back
 This line will be delete
+Last line has been returned
