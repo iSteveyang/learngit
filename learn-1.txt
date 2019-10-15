@@ -4,3 +4,4 @@ The second lessions is use "diff"
 I'm back
 This line will be delete
 Last line has been returned
+Use diff to campare
