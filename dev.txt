@@ -1,0 +1,7 @@
+This is a dev branch.
+We can try to use some command  like :
+git branch -b dev
+git branch 
+git merge
+git branch -d dev
+git switch -c dev
