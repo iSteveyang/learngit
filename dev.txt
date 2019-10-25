@@ -5,3 +5,4 @@ git branch
 git merge
 git branch -d dev
 git switch -c dev
+git cherry-pick
