@@ -6,3 +6,4 @@ Last line has been returned
 Use diff to campare
 Creating a new branch is quick and simple
 There is a bug, and I fixed it.
+There is a bug in issue-1
