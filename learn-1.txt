@@ -5,3 +5,8 @@ This line will be delete
 Last line has been returned
 Use diff to campare
 Creating a new branch is quick and simple
+There is a bug in issue-1
+There is a bug, and I fixed it.
+Fixed bug 2 in issue-2
+Fixed bug 3 witch caused issue-3
+In dev stash something to test
